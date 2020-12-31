@@ -1,0 +1,13 @@
+/.idea/
+/eureka/target/
+.gitignore
+eureka/.idea/compiler.xml
+eureka/.idea/encodings.xml
+eureka/.idea/libraries/
+eureka/.idea/modules.xml
+eureka/.idea/workspace.xml
+eureka/target/classes/com/lb/Test.class
+eureka/target/eureka-1.0-SNAPSHOT.jar
+eureka/target/generated-sources/
+eureka/target/maven-archiver/
+eureka/target/maven-status/
