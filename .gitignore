@@ -1,13 +1,33 @@
-/.idea/
-/eureka/target/
-.gitignore
-eureka/.idea/compiler.xml
-eureka/.idea/encodings.xml
-eureka/.idea/libraries/
-eureka/.idea/modules.xml
-eureka/.idea/workspace.xml
-eureka/target/classes/com/lb/Test.class
-eureka/target/eureka-1.0-SNAPSHOT.jar
-eureka/target/generated-sources/
-eureka/target/maven-archiver/
-eureka/target/maven-status/
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
